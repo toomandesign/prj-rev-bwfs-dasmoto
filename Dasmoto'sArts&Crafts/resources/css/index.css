@@ -1,0 +1,35 @@
+.image{
+  background-image:url("file:///Users/michailtoumanidis/Dropbox/LEARNING/CODEACADEMY/projects/Dasmoto'sArts&Crafts/resources/images/pattern.jpeg");
+  }
+
+.covertext{
+font-family: Helvetica;
+font-weight: bold;
+font-size: 100px;
+color: Khaki;
+text-align: center;
+}
+.brushes{
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.frames{
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+  background-color: lightcoral;
+}
+.paint{
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+  background-color: skyblue;
+}
+#blue{
+  color: blue;
+}
